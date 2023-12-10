@@ -1,4 +1,4 @@
-{
+go{
     "name": "Cyber-X WhatsApp Bot",
     "description": "This is a 3ʳᵈ Party Application software for WhatsApp with Many Feature & many Commands",
     "repository": "https://github.com/MHMODS45/CYBER-X-WHATSAPP-BOT",
@@ -12,7 +12,7 @@
     ],
     "env": {
         "SESSION_ID": {
-            "description": "cyber-x@;;;JQc1nB5K#5RhkczeTG3kEfQq7tFh7jBVxzWfYOt-jISBpWYry47o",
+            "description": "cyber-x@;;;dQ1CRLTb#wTvfziEMXdZR-pzdcGmuLx9h_8g9wWT9DHmK5PYxYWU",
             "required": true,
             "value": ""
         },
