@@ -12,7 +12,7 @@ go{
     ],
     "env": {
         "SESSION_ID": {
-            "description": "cyber-x@;;;dQ1CRLTb#wTvfziEMXdZR-pzdcGmuLx9h_8g9wWT9DHmK5PYxYWU",
+            "description": "cyber-x@;;;BZkjVKZY#iA6TAUk1wuXPooUzLDoGakkKssR6VqII0OHUmKuuxEw",
             "required": true,
             "value": ""
         },
