@@ -12,7 +12,7 @@ go{
     ],
     "env": {
         "SESSION_ID": {
-            "description": "cyber-x@;;;ANcGSQII#SExo9gAv9Nw8S701cxtu831529fC03bjJMqQY0pqMIY",
+            "description": "cyber-x@;;;VZEnnaCY#6RPwqN6iS9JJEq_fSOPn6EUCk-hYv8c2NYN40gEBPOI",
             "required": true,
             "value": ""
         },
@@ -24,7 +24,7 @@ go{
         "HEROKU_APP_NAME": {
             "description": "Enter you pushed app Name",
             "required": true,
-            "value": "sigma124"
+            "value": "unknown09"
         },
         "WORK_TYPE": {
             "description": "Add the worktype of the Bot ( private , public , only_group )",
